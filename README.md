@@ -4,20 +4,22 @@ On any OS, Windows, Linux, MacOS, Android or AppleOS, just copy the html file in
 I would advice to set a bookmark. Under Android I couldn't restart the page otherwise.
 The App will store all date locally in your directory.
 
-Öffne die Seite in Chrome oder Edge (Desktop-Version).
-Gehe dann zu Profil & Daten → Button „Datenordner verbinden“.
-Wähle einen Ordner. Die App legt dort den Unterordner kalorien-datenbank an und speichert ab sofort parallel als echte Textdateien (users.txt, dein-name/2026-09-22.txt usw.).
+Open the page in Chrome or Edge (desktop version).
+Then go to Profile & Data → “Connect Data Folder” button.
+Select a folder. The app will create a subfolder named “calorie-database” there and will immediately start saving data as plain text files (users.txt, your-name/2026-09-22.txt, etc.).
 
-So aktivierst du ihn in Brave:Tippe in die Adressleiste:
+Here’s how to enable it in Brave: Type the following into the address bar:
 brave://flags
-und drücke Enter.
-Suche nach:
+and press Enter.
+Search for:
 File System Access API
-(oder einfach „File System“ / „Native File System“).
-Stelle den Eintrag auf Enabled (Aktiviert).
-Klicke unten rechts auf Relaunch (Brave neu starten).
-Öffne die App erneut und gehe zu Profil & Daten.
-Dort sollte jetzt der Button „Datenordner verbinden“ erscheinen.
+(or simply “File System” / “Native File System”).
+Set the option to Enabled.
+Click Relaunch in the bottom-right corner.
+Reopen the app and go to Profile & Data.
+The “Connect Data Folder” button should now appear there.
+
+Translated with DeepL.com (free version)
 
 You can create or extend the food database, even with complete meals.
 This project is just for fun.
