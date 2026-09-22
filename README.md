@@ -4,6 +4,7 @@ On any OS, Windows, Linux, MacOS, Android or AppleOS, just copy the html file in
 I would advice to set a bookmark. Under Android I couldn't restart the page otherwise.
 The App will store all date locally in your directory.
 You can create or extend the food database, even with complete meals.
+This project is just for fun.
 
 
 PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND
