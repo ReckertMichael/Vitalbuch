@@ -3,9 +3,26 @@ The App does not need any installation and data will be stored locally on your d
 On any OS, Windows, Linux, MacOS, Android or AppleOS, just copy the html file in your home directory and start it in the browser.
 I would advice to set a bookmark. Under Android I couldn't restart the page otherwise.
 The App will store all date locally in your directory.
+
+Öffne die Seite in Chrome oder Edge (Desktop-Version).
+Gehe dann zu Profil & Daten → Button „Datenordner verbinden“.
+Wähle einen Ordner. Die App legt dort den Unterordner kalorien-datenbank an und speichert ab sofort parallel als echte Textdateien (users.txt, dein-name/2026-09-22.txt usw.).
+
+So aktivierst du ihn in Brave:Tippe in die Adressleiste:
+brave://flags
+und drücke Enter.
+Suche nach:
+File System Access API
+(oder einfach „File System“ / „Native File System“).
+Stelle den Eintrag auf Enabled (Aktiviert).
+Klicke unten rechts auf Relaunch (Brave neu starten).
+Öffne die App erneut und gehe zu Profil & Daten.
+Dort sollte jetzt der Button „Datenordner verbinden“ erscheinen.
+
 You can create or extend the food database, even with complete meals.
 This project is just for fun.
 
+    ## Disclaimer
 
 PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND
 
@@ -56,4 +73,24 @@ completeness, or freedom from defects.
    applicable law. In certain jurisdictions (e.g., Germany),
    exclusions of liability for gross negligence or intentional
    misconduct may be restricted under mandatory law
-   (§ 276 BGB, § 309 No. 7 BGB).   
+   (§ 276 BGB, § 309 No. 7 BGB).
+
+
+
+**Vitalbuch is provided “as is”, without any warranty of any kind, express or implied.**
+
+This application is a personal tracking and information tool only.  
+It is **not** a medical device, **not** medical software, and **not** a substitute for professional medical advice, diagnosis, or treatment.
+
+- All nutritional values, calorie calculations, purine contents, glycemic indices, blood-glucose targets, alcohol limits, and health-related tips are approximate estimates based on publicly available data and simplified formulas.  
+- They may be incomplete, outdated, or inaccurate.  
+- Never use the app’s suggestions to make decisions about medication, insulin dosing, diet changes, or any medical treatment. Always consult a qualified physician or registered dietitian.
+
+By using this software you acknowledge and agree that:
+
+1. You use it entirely at your own risk.  
+2. The author(s) and contributors accept **no liability** whatsoever for any direct, indirect, incidental, special, consequential, or punitive damages (including but not limited to data loss, health consequences, incorrect calculations, or any other loss) arising out of the use or inability to use this software.  
+3. You are solely responsible for backing up your data. The application stores data only locally in the browser and/or in a folder you choose. Clearing browser data or disconnecting the folder may result in permanent data loss.  
+4. The software is provided under the [LICENSE](LICENSE) and comes with no guarantees of fitness for any particular purpose.
+
+If you do not agree with these terms, do not use the application.
